@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [FlagOMS](https://seller.flagoms.com/)
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **Node-JS, Next-JS**
 
 - 👯 I’m looking to collaborate on **3I Website, Mudrank – Startup Investment Platform, Aarshey eComerce Platform, Sleepezee – Personalized Sleep Solutions.**
 
-- 💬 Ask me about **React-JS.**
+- 💬 Ask me about **ReactJS, Redux, JavaScript (ES6+), HTML5, CSS3, React Router, Tailwind CSS, Bootstrap.**
 
 - 📫 How to reach me **hemanshiladola221@gmail.com**
 
